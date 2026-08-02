@@ -1,0 +1,18 @@
+.navigation-link10,
+.navigation-link-wrapper,
+.navigation-link15,
+.navigation-link16,
+.navigation-link17 {
+  display: contents;
+}
+
+@keyframes mobileFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

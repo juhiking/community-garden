@@ -1,0 +1,9 @@
+.footer-social-wrapper,
+.footer-legal-wrapper {
+  display: contents;
+}
+
+.footer-submit-btn--done {
+  border-color: #2ecc71;
+  background-color: #2ecc71;
+}
