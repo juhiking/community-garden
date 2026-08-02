@@ -178,7 +178,7 @@ const Footer = () => {
       <div aria-hidden="true" className="footer-decoration">
         <img
           alt=""
-          src="https://images.pexels.com/photos/5809/food-salad-healthy-vegetables.jpg?auto=compress&cs=tinysrgb&w=200"
+          src="/images/footer-veggies.jpg"
           className="footer-decoration-img"
         />
       </div>

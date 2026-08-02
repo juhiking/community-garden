@@ -27,25 +27,25 @@ const events = [
 
 const stories = [
   {
-    img: 'https://images.pexels.com/photos/13836517/pexels-photo-13836517.jpeg?auto=compress&cs=tinysrgb&w=1500',
+    img: '/images/story-family.jpg',
     alt: 'Family gardening together',
     title: 'Family Spotlight: The Miller Family',
     text: 'How the Millers turned their Saturday mornings into a tech-free family tradition in the garden.',
   },
   {
-    img: 'https://images.pexels.com/photos/7728706/pexels-photo-7728706.jpeg?auto=compress&cs=tinysrgb&w=1500',
+    img: '/images/story-irrigation.jpg',
     alt: 'Volunteers working',
     title: 'New Irrigation System Installed',
     text: "Thanks to our recent fundraiser, we've upgraded our garden's sustainability with smart watering.",
   },
   {
-    img: 'https://images.pexels.com/photos/31416070/pexels-photo-31416070.jpeg?auto=compress&cs=tinysrgb&w=1500',
+    img: '/images/story-composting.jpg',
     alt: 'Composting close up',
     title: 'Composting Success Stories',
     text: 'Diverting 500kg of waste from landfills this month alone. See how you can help!',
   },
   {
-    img: 'https://images.pexels.com/photos/7658794/pexels-photo-7658794.jpeg?auto=compress&cs=tinysrgb&w=1500',
+    img: '/images/story-seniors.jpg',
     alt: 'Senior couple gardening',
     title: 'Wisdom from the Soil',
     text: 'Our senior members share their lifelong gardening secrets during our weekly tea hour.',
@@ -159,7 +159,7 @@ const Home = () => {
           <div className="welcome-hero__media-container">
             <img
               alt="Lush community garden with wooden pathways"
-              src="https://images.pexels.com/photos/5864224/pexels-photo-5864224.jpeg?auto=compress&cs=tinysrgb&w=1500"
+              src="/images/hero-garden.jpg"
               className="welcome-hero__bg-img"
             />
             <div className="welcome-hero__overlay"></div>
